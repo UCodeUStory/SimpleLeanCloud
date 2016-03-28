@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\leanmessage-demo-master\Android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\classes-37a26c99d67905cd90265731fd50a1212d6ed070.jar" />
+    </item>
+    <item
+        jar="E:\leanmessage-demo-master\Android\app\build\intermediates\exploded-aar\cn.leancloud.android\avoscloud-push\v3.13.4\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="53904c6d1b59c1b164ae920851bc5d5277142a7e">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\classes-fced0a89d9f9d2e33dca6601b7f9fdedc9bee34d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\okio\1.6.0-leancloud\7086c00a30a6de0ee3b963ec2c3702d37f1de11d\okio-1.6.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7086c00a30a6de0ee3b963ec2c3702d37f1de11d">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-leancloud-4f297d19881354ffcf4818ca211e1f9cb5cc473e.jar" />
+    </item>
+    <item
+        jar="E:\leanmessage-demo-master\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\classes-73df30a0fcb7101c9bcf39b929a5550e8a10085d.jar" />
+    </item>
+    <item
+        jar="E:\leanmessage-demo-master\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-9572da05ab1a376a5fd284cc35fb57430a9820b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\Java-WebSocket\1.3.1-leancloud\b2e07c7789af93de587a1d0c9441fb0e74fd16e0\Java-WebSocket-1.3.1-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2e07c7789af93de587a1d0c9441fb0e74fd16e0">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.1-leancloud-836cbeecddf0b4599923947189fb92c9a0a97593.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\fastjson\1.1.39-leancloud\94d4ebd4acdaf01d7445435382eea2d2d38e7534\fastjson-1.1.39-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="94d4ebd4acdaf01d7445435382eea2d2d38e7534">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\fastjson-1.1.39-leancloud-689e3dd539b196ff1cb05227c64cdfb6bcde6274.jar" />
+    </item>
+    <item
+        jar="E:\leanmessage-demo-master\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\classes-cf269e8f7fcf05e9749b5c9dff9c04a11a025866.jar" />
+    </item>
+    <item
+        jar="E:\leanmessage-demo-master\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\classes-120a64c87b489692f629fe1fe9581497e694bba6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.stuxuhai\jpinyin\1.0\1147a356363940a13f955933d6fbab0622b189f7\jpinyin-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1147a356363940a13f955933d6fbab0622b189f7">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\jpinyin-1.0-cd9864bf31c6c256ad4cbad0005e1858acd6aac4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\avoscloud-sdk\v3.13.4\d2a250cf638bce0bdd040244e7b24597987cb2f4\avoscloud-sdk-v3.13.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d2a250cf638bce0bdd040244e7b24597987cb2f4">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.13.4-798729a5f62a0316fd12a3524e745f58f7eba1cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.leancloud.android\okhttp\2.6.0-leancloud\7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930\okhttp-2.6.0-leancloud.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0-leancloud-4ac5788587b01fb9bf9bba3f178268cdb160db5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-03e25c6b3178abc8ecb48b05be1f281aa0724b29.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\2.6.1\d9521f2aecb909835746b7a5facf612af5e890e8\protobuf-java-2.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\protobuf-java-2.6.1-152e2d7f1f979b1c016efb6fbe110af50400efb1.jar" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\leanmessage-demo-master\Android\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-abdea0359f0e05be7d478ed15f4e04968fbe785d.jar" />
+    </item>
+
+</items>
